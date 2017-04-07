@@ -1,3 +1,6 @@
 [submodule "haspot"]
 	path = haspot
 	url = https://github.com/MnO2/haspot
+[submodule "www.haskell.mn"]
+	path = www.haskell.mn
+	url = https://github.com/HaskellMN/www.haskell.mn

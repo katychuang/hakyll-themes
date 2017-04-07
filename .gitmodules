@@ -1,0 +1,3 @@
+[submodule "haspot"]
+	path = haspot
+	url = https://github.com/MnO2/haspot

@@ -4,3 +4,6 @@
 [submodule "www.haskell.mn"]
 	path = www.haskell.mn
 	url = https://github.com/HaskellMN/www.haskell.mn
+[submodule "CleanMagic-hakyll"]
+	path = CleanMagic-hakyll
+	url = https://github.com/katychuang/CleanMagic-hakyll.git

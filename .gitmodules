@@ -7,3 +7,6 @@
 [submodule "CleanMagic-hakyll"]
 	path = CleanMagic-hakyll
 	url = https://github.com/katychuang/CleanMagic-hakyll.git
+[submodule "theProfessional-hakyll"]
+	path = theProfessional-hakyll
+	url = https://github.com/katychuang/theProfessional-hakyll.git

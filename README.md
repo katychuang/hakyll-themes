@@ -6,8 +6,9 @@ Description: This collection of hakyll themes.
 
 It's through community contributions that will continue to improve this collection. You can contribute in several ways.
 
-* **Submitting theme**: If you'd like to contribute your theme, fork the repo, create a new subdirectory with your theme and site.hs files. 
-    * if you're using the out of the box site.hs and template files: add the file to the css directory under `default_theme` and add an option to the dropdown menu in default.html
+* **Submitting theme**: If you'd like to contribute your theme, use git submodule to add your theme.
+  * `git submodule add https://YOURREPO.git`
+  * `git commit -m "adding theme THEME_NAME`
 
 * **Issues**: Provide a detailed report of any bugs you encounter, and open an issue on GitHub.
 

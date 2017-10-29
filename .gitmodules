@@ -10,3 +10,6 @@
 [submodule "theProfessional-hakyll"]
 	path = theProfessional-hakyll
 	url = https://github.com/katychuang/theProfessional-hakyll.git
+[submodule "materialize-hakyll"]
+	path = materialize-hakyll
+	url = https://github.com/futtetennista/materialize-hakyll

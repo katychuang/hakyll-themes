@@ -12,4 +12,4 @@
 	url = https://github.com/katychuang/theProfessional-hakyll.git
 [submodule "materialize-hakyll"]
 	path = materialize-hakyll
-	url = https://github.com/futtetennista/materialize-hakyll
+	url = https://github.com/futtetennismo/materialize-hakyll

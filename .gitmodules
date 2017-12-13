@@ -10,9 +10,9 @@
 [submodule "theProfessional-hakyll"]
 	path = theProfessional-hakyll
 	url = https://github.com/katychuang/theProfessional-hakyll.git
-[submodule "materialize-hakyll"]
-	path = materialize-hakyll
-	url = https://github.com/futtetennismo/materialize-hakyll.git
 [submodule "wp-twentyseventeen"]
 	path = wp-twentyseventeen
 	url = https://github.com/katychuang/wp-twentyseventeen.git
+[submodule "materialize-hakyll"]
+	path = materialize-hakyll
+	url = https://github.com/futtetennismo/materialize-hakyll.git

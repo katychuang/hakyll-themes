@@ -13,3 +13,6 @@
 [submodule "materialize-hakyll"]
 	path = materialize-hakyll
 	url = https://github.com/futtetennismo/materialize-hakyll
+[submodule "wp-twentyseventeen"]
+	path = wp-twentyseventeen
+	url = git@github.com:katychuang/wp-twentyseventeen.git

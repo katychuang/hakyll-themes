@@ -1,9 +1,9 @@
 [submodule "haspot"]
 	path = haspot
-	url = https://github.com/MnO2/haspot
+	url = https://github.com/MnO2/haspot.git
 [submodule "www.haskell.mn"]
 	path = www.haskell.mn
-	url = https://github.com/HaskellMN/www.haskell.mn
+	url = https://github.com/HaskellMN/www.haskell.mn.git
 [submodule "CleanMagic-hakyll"]
 	path = CleanMagic-hakyll
 	url = https://github.com/katychuang/CleanMagic-hakyll.git
@@ -12,7 +12,7 @@
 	url = https://github.com/katychuang/theProfessional-hakyll.git
 [submodule "materialize-hakyll"]
 	path = materialize-hakyll
-	url = https://github.com/futtetennismo/materialize-hakyll
+	url = https://github.com/futtetennismo/materialize-hakyll.git
 [submodule "wp-twentyseventeen"]
 	path = wp-twentyseventeen
-	url = git@github.com:katychuang/wp-twentyseventeen.git
+	url = https://github.com/katychuang/wp-twentyseventeen.git

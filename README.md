@@ -29,4 +29,4 @@ Katherine Chuang
 
 # Copyright and license
 
-* Copyright 2015-2017 Katherine Chuang
+* Copyright 2015-2018 Katherine Chuang

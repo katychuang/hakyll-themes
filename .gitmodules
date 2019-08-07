@@ -16,3 +16,7 @@
 [submodule "materialize-hakyll"]
 	path = materialize-hakyll
 	url = https://github.com/futtetennismo/materialize-hakyll.git
+[submodule "BareCssHakyll"]
+	path = BareCssHakyll
+	url = https://github.com/adithyaov/adithyaov.github.io.git
+	branch = develop

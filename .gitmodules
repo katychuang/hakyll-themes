@@ -20,3 +20,6 @@
 	path = BareCssHakyll
 	url = https://github.com/adithyaov/adithyaov.github.io.git
 	branch = develop
+[submodule "lanyon-hakyll"]
+	path = lanyon-hakyll
+	url = https://github.com/hahey/lanyon-hakyll.git
